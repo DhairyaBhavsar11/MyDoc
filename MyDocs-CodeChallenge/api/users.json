@@ -1,0 +1,18 @@
+{
+  "error": null,
+  "data": [
+      {
+        "email": "dhairya",
+        "password": "password"
+      },
+      {
+        "email": "test@gmail.com",
+        "password": "1234"
+      },
+      {
+        "email": "test2@gmail.com",
+        "password": "password2"
+      }      
+  ]
+}
+
